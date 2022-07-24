@@ -4,6 +4,8 @@
 # Description
 
  Lots of things are disabled for maximum privacy. No Microsoft account sign is allowed, telemetry set to security, no location script tracking, privacy settings locked down (camera, mic, tracking device, and notifications are set to user controlled), Windows Defender Antivirus is optionally disabled.
+ 
+ See [changes.txt](changes.txt) for the full list of edited policies.
 
 # Installation
 
