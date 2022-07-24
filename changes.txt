@@ -1,0 +1,119 @@
+Setting State	Comment	Path
+Allow Cloud Search	Disabled	No	\Windows Components\Search
+Allow Cortana	Disabled	No	\Windows Components\Search
+Allow Cortana above lock screen	Disabled	No	\Windows Components\Search
+Allow Message Service Cloud Sync	Disabled	No	\Windows Components\Messaging
+Allow Telemetry	Enabled	No	\Windows Components\Data Collection and Preview Builds
+Allow the use of biometrics	Disabled	No	\Windows Components\Biometrics
+Allow use of diacritics	Disabled	No	\Windows Components\Search
+Block all consumer Microsoft account user authentication	Enabled	No	\Windows Components\Microsoft account
+Choose drive encryption method and cipher strength (Windows 10 [Version 1511] and later)	Enabled	No	\Windows Components\BitLocker Drive Encryption
+Configure App Install Control	Disabled	No	\Windows Components\Windows Defender SmartScreen\Explorer
+Configure Automatic Updates	Enabled	No	\Windows Components\Windows Update
+Configure Error Reporting	Enabled	No	\Windows Components\Windows Error Reporting
+Configure Offer Remote Assistance	Disabled	No	\System\Remote Assistance
+Configure Solicited Remote Assistance	Disabled	No	\System\Remote Assistance
+Configure Windows Defender SmartScreen	Disabled	No	\Windows Components\File Explorer
+Configure Windows Defender SmartScreen	Disabled	No	\Windows Components\Windows Defender SmartScreen\Explorer
+Disable all apps from Microsoft Store 	Enabled	No	\Windows Components\Store
+Disable help tips	Enabled	No	\Windows Components\Edge UI
+Disable MDM Enrollment	Enabled	No	\Windows Components\MDM
+Disable Windows Error Reporting	Enabled	No	\Windows Components\Windows Error Reporting
+Do not allow Digital Locker to run	Enabled	No	\Windows Components\Digital Locker
+Do not allow locations on removable drives to be added to libraries	Enabled	No	\Windows Components\Search
+Do not allow Sound Recorder to run	Enabled	No	\Windows Components\Sound Recorder
+Do not allow web search	Enabled	No	\Windows Components\Search
+Do not allow Windows Messenger to be run	Enabled	No	\Windows Components\Windows Messenger
+Do not automatically start Windows Messenger initially	Enabled	No	\Windows Components\Windows Messenger
+Do not include drivers with Windows Updates	Enabled	No	\Windows Components\Windows Update
+Do not send additional data	Enabled	No	\Windows Components\Windows Error Reporting
+Do not show feedback notifications	Enabled	No	\Windows Components\Data Collection and Preview Builds
+Do not show the 'new application installed' notification	Enabled	No	\Windows Components\File Explorer
+Do not show Windows tips	Enabled	No	\Windows Components\Cloud Content
+Do not sync	Enabled	No	\Windows Components\Sync your settings
+Do not sync app settings	Enabled	No	\Windows Components\Sync your settings
+Do not sync Apps	Enabled	No	\Windows Components\Sync your settings
+Do not sync browser settings	Enabled	No	\Windows Components\Sync your settings
+Do not sync desktop personalization	Enabled	No	\Windows Components\Sync your settings
+Do not sync on metered connections	Enabled	No	\Windows Components\Sync your settings
+Do not sync other Windows settings	Enabled	No	\Windows Components\Sync your settings
+Do not sync passwords	Enabled	No	\Windows Components\Sync your settings
+Do not sync personalize	Enabled	No	\Windows Components\Sync your settings
+Do not sync start settings	Enabled	No	\Windows Components\Sync your settings
+Don't search the web or display web results in Search	Enabled	No	\Windows Components\Search
+Don't search the web or display web results in Search over metered connections	Enabled	No	\Windows Components\Search
+Enable news and interests on the taskbar	Disabled	No	\Windows Components\News and interests
+Enables or disables Windows Game Recording and Broadcasting	Disabled	No	\Windows Components\Windows Game Recording and Broadcasting
+Enforce drive encryption type on fixed data drives	Enabled	No	\Windows Components\BitLocker Drive Encryption\Fixed Data Drives
+Enforce drive encryption type on operating system drives	Enabled	No	\Windows Components\BitLocker Drive Encryption\Operating System Drives
+Enforce drive encryption type on removable data drives	Enabled	No	\Windows Components\BitLocker Drive Encryption\Removable Data Drives
+Hide the Account protection area	Enabled	No	\Windows Components\Windows Security\Account protection
+Hide the Family options area	Enabled	No	\Windows Components\Windows Security\Family options
+Hide the Ransomware data recovery area	Enabled	No	\Windows Components\Windows Security\Virus and threat protection
+Hide the Virus and threat protection area	Enabled	No	\Windows Components\Windows Security\Virus and threat protection
+Hide Windows Security Systray	Enabled	No	\Windows Components\Windows Security\Systray
+Let Windows apps access account information	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access an eye tracker device	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access call history	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access contacts	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access diagnostic information about other apps	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access email	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access location	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access messaging	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access motion	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access notifications	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access Tasks	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access the calendar	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access the camera	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access the microphone	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access trusted devices	Enabled	No	\Windows Components\App Privacy
+Let Windows apps access user movements while running in the background	Enabled	No	\Windows Components\App Privacy
+Let Windows apps activate with voice	Enabled	No	\Windows Components\App Privacy
+Let Windows apps activate with voice while the system is locked	Enabled	No	\Windows Components\App Privacy
+Let Windows apps communicate with unpaired devices	Enabled	No	\Windows Components\App Privacy
+Let Windows apps control radios	Enabled	No	\Windows Components\App Privacy
+Let Windows apps make phone calls	Enabled	No	\Windows Components\App Privacy
+Let Windows apps run in the background	Enabled	No	\Windows Components\App Privacy
+Prevent access to feed list	Enabled	No	\Windows Components\RSS Feeds
+Prevent automatic discovery of feeds and Web Slices	Enabled	No	\Windows Components\RSS Feeds
+Prevent AutoPlay from remembering user choices.	Enabled	No	\Windows Components\AutoPlay Policies
+Prevent downloading of enclosures	Enabled	No	\Windows Components\RSS Feeds
+Prevent installation of devices that match any of these device IDs	Enabled	No	\System\Device Installation\Device Installation Restrictions
+Prevent subscribing to or deleting a feed or a Web Slice	Enabled	No	\Windows Components\RSS Feeds
+Prevent the usage of OneDrive for file storage	Enabled	No	\Windows Components\OneDrive
+Prevent the usage of OneDrive for file storage on Windows 8.1	Enabled	No	\Windows Components\OneDrive
+Prevent Windows Media DRM Internet Access	Enabled	No	\Windows Components\Windows Media Digital Rights Management
+Remove Program Compatibility Property Page	Enabled	No	\Windows Components\Application Compatibility
+Report operating system errors	Disabled	No	\Windows Components\Windows Error Reporting\Advanced Error Reporting Settings
+Set the default behavior for AutoRun	Enabled	No	\Windows Components\AutoPlay Policies
+Turn off Active Help	Enabled	No	\Windows Components\Online Assistance
+Turn off Application Compatibility Engine	Enabled	No	\Windows Components\Application Compatibility
+Turn off Application Telemetry	Enabled	No	\Windows Components\Application Compatibility
+Turn off Automatic Download and Install of updates	Enabled	No	\Windows Components\Store
+Turn off Automatic Download and Update of Map Data	Enabled	No	\Windows Components\Maps
+Turn off Automatic Download of updates on Win8 machines	Enabled	No	\Windows Components\Store
+Turn off Autoplay	Enabled	No	\Windows Components\AutoPlay Policies
+Turn off background synchronization for feeds and Web Slices	Enabled	No	\Windows Components\RSS Feeds
+Turn off cloud optimized content	Enabled	No	\Windows Components\Cloud Content
+Turn off Configuration	Enabled	No	\System\System Restore
+Turn off desktop gadgets	Enabled	No	\Windows Components\Desktop Gadgets
+Turn off File History	Enabled	No	\Windows Components\File History
+Turn off Inventory Collector	Enabled	No	\Windows Components\Application Compatibility
+Turn off location	Enabled	No	\Windows Components\Location and Sensors
+Turn off location scripting	Enabled	No	\Windows Components\Location and Sensors
+Turn off Microsoft consumer experiences	Enabled	No	\Windows Components\Cloud Content
+Turn off Microsoft Defender Antivirus	Enabled	No	\Windows Components\Microsoft Defender Antivirus
+Turn off Program Compatibility Assistant	Enabled	No	\Windows Components\Application Compatibility
+Turn off Push To Install service	Enabled	No	\Windows Components\Push To Install
+Turn off real-time protection	Enabled	No	\Windows Components\Microsoft Defender Antivirus\Real-time Protection
+Turn off sensors	Enabled	No	\Windows Components\Location and Sensors
+Turn off Steps Recorder	Enabled	No	\Windows Components\Application Compatibility
+Turn off SwitchBack Compatibility Engine	Enabled	No	\Windows Components\Application Compatibility
+Turn off System Restore	Enabled	No	\System\System Restore
+Turn off the offer to update to the latest version of Windows	Enabled	No	\Windows Components\Store
+Turn off the Store application	Enabled	No	\Windows Components\Store
+Turn off unsolicited network traffic on the Offline Maps settings page	Enabled	No	\Windows Components\Maps
+Turn off Windows Calendar	Enabled	No	\Windows Components\Windows Calendar
+Turn off Windows Location Provider	Enabled	No	\Windows Components\Location and Sensors\Windows Location Provider
+Turn off Windows Startup sound	Enabled	No	\System\Logon
+Turn On/Off Find My Device	Disabled	No	\Windows Components\Find My Device
